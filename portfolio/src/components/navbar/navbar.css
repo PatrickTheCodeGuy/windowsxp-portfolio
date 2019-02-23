@@ -1,0 +1,10 @@
+.Navbar-container {
+  display: flex;
+  background-image: linear-gradient(
+    rgb(177, 217, 255),
+    rgb(15, 108, 196) 10%,
+    rgb(15, 108, 196) 40%,
+    rgb(73, 166, 255)
+  );
+  height: 40px;
+}
